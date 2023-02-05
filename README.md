@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xubby" alt="xubby" /></a> </p>
 
-- 📚 2nd year student of the Masters Degree in **Informatic and Computing Engineering** @FEUP
+- 📚 2nd year student of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
 - 💡 I'm interested in **Game Development, Software Development and AI**
 - 🌱 I’m currently learning **HTML, CSS, PHP and JavaScript**
 
