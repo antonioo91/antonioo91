@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonioo91" alt="antonioo91" /></a> </p>
 
 - 📚 2nd year student of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
-- 💡 I'm really interested in **Cybersecurity and Software Engineering**
+- 💡 I'm really interested in **Cybersecurity, Game Development and Software Engineering**
 - 🌱 I’m currently learning **HTML, CSS, PHP, JavaScript, Flutter, C**
 
 <h3 align="left">Languages and Tools:</h3>
