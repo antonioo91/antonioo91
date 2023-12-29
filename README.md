@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm António Azevedo</h1>
 <!-- <h3 align="center">An aspiring security engineer</h3> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antonioo91" alt="antonioo91" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antoniooazevedo" alt="antoniooazevedo" /></a> </p>
 
 - 📚 2nd year student of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
 - 💡 I'm really interested in **Cybersecurity, Game Development and Software Engineering**
