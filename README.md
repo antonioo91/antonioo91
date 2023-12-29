@@ -20,3 +20,16 @@ Here are some ideas to get you started:
 - 📚 3rd(Last) year student of the Bachelors Degree in **Informatic and Computing Engineering** @**FEUP**
 - 💡 I'm really interested in **Cybersecurity and Software Engineering**
 - 🚀 Looking for ways to enter the industry!
+
+<h2 align="center">University projects</h2>
+<ul>
+  <li>
+    <h4>Projects based on expanding knowledge in algorithms and usage of data structures</h4>
+    <ul>
+      <li><a href="https://github.com/antoniooazevedo/aed-project1"><b>Tool for schedule management</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/aed-project2"><b>CLI program for searching through a graph of airports and airplane flight paths</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/project-railway"><b>Different graph traversal and search algorithms implemented in a railway network</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/project-tsp"><b>Implementation of different algorithms and heuristics for the Travelling-Salesman Problem in different graphs</b></a></li>
+    </ul>
+  </li>
+</ul>
