@@ -31,5 +31,20 @@ Here are some ideas to get you started:
       <li><a href="https://github.com/antoniooazevedo/project-railway"><b>Different graph traversal and search algorithms implemented in a railway network</b></a></li>
       <li><a href="https://github.com/antoniooazevedo/project-tsp"><b>Implementation of different algorithms and heuristics for the Travelling-Salesman Problem in different graphs</b></a></li>
     </ul>
+    <h4>Projects for gaining experience in software engineering</h4>
+    <ul>
+      <li><a href="https://github.com/antoniooazevedo/Projeto-LDTS-2022"><b>Bomberman game using MVC design pattern</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/ESOF-project"><b>Study Buddy app developed in flutter using the SPRINT development methodology</b></a></li>
+    </ul>
+    <h4>Projects for working in a low-level environment</h4>
+    <ul>
+      <li><a href="https://github.com/antoniooazevedo/SO-project"><b>Different exercises for working with FIFO pipes</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/LCOM-project"><b>Chess game developed along with device drivers for keyboard, mouse and video card</b></a></li>
+    </ul>
+    <h4>Web development projects</h4>
+    <ul>
+      <li><a href="https://github.com/antoniooazevedo/LTW-project"><b>Support ticket website developed using PHP, CSS and Javascript</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/"><b>Reddit x StackOverflow website CommunityConnect developed using the Laravel framework</b></a></li>
+    </ul>
   </li>
 </ul>
