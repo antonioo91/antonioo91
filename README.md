@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     <h4>Web development projects</h4>
     <ul>
       <li><a href="https://github.com/antoniooazevedo/LTW-project"><b>Support ticket website developed using PHP, CSS and Javascript</b></a></li>
-      <li><a href="https://github.com/antoniooazevedo/"><b>Reddit x StackOverflow website CommunityConnect developed using the Laravel framework</b></a></li>
+      <li><a href="https://github.com/antoniooazevedo/Community-Connect"><b>Reddit x StackOverflow website CommunityConnect developed using the Laravel framework</b></a></li>
     </ul>
   </li>
 </ul>
