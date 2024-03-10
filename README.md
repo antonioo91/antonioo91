@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🚀 Looking for ways to enter the industry!
 
 <h3 align="left">🛠 Languages I've used</h3>
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
@@ -54,6 +53,8 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=antoniooazevedo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
