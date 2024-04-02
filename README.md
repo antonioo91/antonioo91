@@ -69,6 +69,7 @@ Here are some ideas to get you started:
       <li><a href="https://github.com/antoniooazevedo/aed-project2"><b>CLI program for searching through a graph of airports and airplane flight paths</b></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  /></li>
       <li><a href="https://github.com/antoniooazevedo/project-railway"><b>Different graph traversal and search algorithms implemented in a railway network</b></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  /></li>
       <li><a href="https://github.com/antoniooazevedo/project-tsp"><b>Implementation of different algorithms and heuristics for the Travelling-Salesman Problem in different graphs</b></a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" alt="cplusplus logo"  /></li>
+      <li><a href="https://github.com/antoniooazevedo/IA-project"><b>Implementations of different search algorithms and heuristics to solve a Sokobond game</b></a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
     </ul>
     <h4>Projects for gaining experience in software engineering</h4>
     <ul>
