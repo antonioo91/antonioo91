@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I'm António Azevedo</h1>
 <!-- <h3 align="center">An aspiring security engineer</h3> -->
 
-- 📚 3rd(Last) year student of the Bachelors Degree in **Informatic and Computing Engineering** @**FEUP**
+- 📚 Bachelors Degree in **Informatic and Computing Engineering** @**FEUP**
+- 🎓 Currently in the 1st year of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
 - 💡 I'm really interested in **Cybersecurity and Software Engineering**
 - 🚀 Looking for ways to enter the industry!
 
