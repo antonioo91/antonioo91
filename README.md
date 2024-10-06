@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📚 Bachelors Degree in **Informatic and Computing Engineering** @**FEUP**
 - 🎓 Currently in the 1st year of the Masters Degree in **Informatic and Computing Engineering** @**FEUP**
-- 💡 I'm really interested in **Cybersecurity and Software Engineering**
+- 💡 I'm really interested in **Cybersecurity and Networks**
 - 🚀 Looking for ways to enter the industry!
 
 <h3 align="left">🛠 Languages I've used</h3>
@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=antoniooazevedo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoniooazevedo&theme=github_dark" alt="graph" />
 </div>
 
 <h1 align="center">University projects</h1>
